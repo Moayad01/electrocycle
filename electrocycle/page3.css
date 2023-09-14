@@ -1,0 +1,44 @@
+
+
+
+.green_container{
+    border-radius: 0px 0px 1480px 0px;
+    background: #14C5A4;
+    height: 96vh;
+    width: 100%;
+    direction: rtl;
+}
+
+.logo{
+    position: absolute;
+    top: 9.5%;
+    left: 5%;
+    width: 300px;
+    height: 300px;
+}
+
+.text-container{
+    padding-block-start: 12.5%;
+    padding-inline-start: 16.4%;
+}
+
+
+.main-text{
+    color: #FFF;
+    font-family: Changa;
+    font-size: 115px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 130px; /* 136.842% */
+    padding-block-end: 6%;
+   
+}
+
+.text-style{
+    color: #FFF;
+    font-family: Changa;
+    font-size: 78px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 130px; /* 203.125% */
+}

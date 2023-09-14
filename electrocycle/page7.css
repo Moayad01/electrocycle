@@ -1,0 +1,52 @@
+
+
+.green_container{
+    height: 54vh;
+    background-color: #14C5A4;
+    border-radius: 0px 0px 553.5px 553.5px;
+}
+
+
+.main-text{
+    color: #FFF;
+    font-family: Changa;
+    font-size: 115px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 130px; /* 144.444% */
+    padding-block-end: 2%;
+}
+
+.text-container{
+    text-align: center;
+    padding-block-start: 14%;
+
+    
+}
+
+.points-text{
+
+    color: #FFF;
+    font-family: Changa;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 79px; /* 175.556% */
+    display: contents;
+
+    &.price-value{
+        display: inline-flex;
+    }
+}
+
+.price{
+    color: #FFF;
+    font-family: Changa;
+    font-size: 108px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 130px; /* 144.444% */
+    padding-block-start: 2%;
+    
+
+}

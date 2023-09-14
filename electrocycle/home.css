@@ -1,0 +1,52 @@
+
+
+.green_container{
+    background-color: #14C5A4;
+    height: 91vh;
+    width: 93%;
+    border-radius: 0px 0px 1440px 0px;
+
+    @media (max-width: 1600px) {
+        height: 100vh;
+        border-radius: 0px 0px 850px 0px;
+    }
+}
+
+.logo{
+    width: 35%;
+    margin-inline-start: 23%;
+    margin-block-start: 11%;
+
+    @media (max-width: 1600px) {
+        width: 33%;
+        margin-block-start: 13%;
+    }
+
+}
+
+.main-text{
+    width: 35%;
+    margin-inline-start: 27%;
+    margin-top: -22px;
+    color: #FFF;
+    font-family: Noto Kufi Arabic;
+    font-size: 86px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.333px;
+
+    @media (max-width: 1600px) {
+        margin-inline-start: 19.5%;
+        font-size: 58px;
+    }
+
+}
+
+.start-button-arrow{
+    position: absolute;
+    left: 97px;
+    top: 24px;
+    height: 130px;
+    width: 250px;
+}
